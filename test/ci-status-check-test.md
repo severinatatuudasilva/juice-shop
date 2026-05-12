@@ -1,5 +1,5 @@
 # CI Status Check Verification
 
-This file triggers a PR-triggered scan to verify GitHub Check Run integration with Raiko.
+This file triggers a PR-triggered scan to verify GitHub Check Run integration.
 
-Updated to trigger webhook delivery after webhook configuration.
+Push 3: after webhook secret + source 161 fix.

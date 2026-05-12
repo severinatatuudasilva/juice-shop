@@ -148,7 +148,10 @@
   email: wurstbrot
   username: wurstbrot
   password: 'EinBelegtesBrotMitSchinkenSCHINKEN!'
-  totpSecret: IFTXE3SPOEYVURT2MRYGI52TKJ4HC3KH
+  # totpSecret removed to avoid committing one-time-password secrets to the
+  # repository. Use a runtime secret manager or environment variable to
+  # provision TOTP secrets for users instead of storing them in source.
+  totpSecret: 'REDACTED'
   key: timo
   role: 'admin'
   securityQuestion:

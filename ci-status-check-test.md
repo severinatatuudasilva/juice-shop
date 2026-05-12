@@ -1,2 +1,3 @@
 # CI Status Check Test
-Triggered at 2026-05-12T18:58:47Z to verify PostCiStatusJob posts Check Run on PR.
+Attempt 3 — triggered at 2026-05-12T19:27:01Z after Temporal matching service fix.
+Verifying PostCiStatusJob posts Check Run on PR.

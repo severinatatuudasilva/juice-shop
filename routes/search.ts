@@ -72,3 +72,4 @@ export function searchProducts () {
   }
 }
 // vuln-code-snippet end unionSqlInjectionChallenge dbSchemaChallenge
+// Security scan E2E test — trigger inline comments

@@ -72,3 +72,5 @@ export function searchProducts () {
   }
 }
 // vuln-code-snippet end unionSqlInjectionChallenge dbSchemaChallenge
+// Security scan E2E test — trigger inline comments
+// S7-1 E2E attempt #6 — post-deploy #130 source scoping fix
